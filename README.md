@@ -25,3 +25,5 @@ This project involves the parametric design of a gear pump housing, modeled in S
 
 - SolidWorks and ANSYS files are not included. All sections and analysis details are provided in the report.  
 - The project was entirely completed using student versions of the software.
+- 
+> 📄 Note: The final report (bitirme_raporu.pdf) is written in Turkish, as this project was conducted as part of a university graduation requirement in Türkiye.
